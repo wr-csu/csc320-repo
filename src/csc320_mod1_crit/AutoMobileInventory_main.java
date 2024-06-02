@@ -157,7 +157,7 @@ public class AutoMobileInventory_main {
 					break;
 					
 				case 'C':
-				//fix me add try catch 
+				
 					
 					System.out.println("Change a vehicle's attributes:");
 					while (checkIfString(userMake) == false) {
